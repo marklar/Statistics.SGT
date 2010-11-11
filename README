@@ -1,0 +1,8 @@
+
+= Simple Good-Turing Frequency Estimation =
+
+An estimate the probability of elements based on observed data.
+
+http://en.wikipedia.org/wiki/Good-Turing_frequency_estimation
+
+Based on: http://www.grsampson.net/D_SGT.c by Geoffrey Sampson.
