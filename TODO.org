@@ -1,0 +1,14 @@
+* Packaging
+** Cabalize
+** Document
+** Examples
+** Unit Tests
+*** To create vectors: http://haskell.org/haskellwiki/Numeric_Haskell:_A_Vector_Tutorial#Array_Creation
+* Impl / Features
+** Consider using Data.Vector.Unboxed.  Faster.
+*** May need to store observations as pairs rather than Row.
+*** http://hackage.haskell.org/packages/archive/vector/0.5/doc/html/Data-Vector-Unboxed.html
+** Consider using binning
+*** http://www.umiacs.umd.edu/~hal/GoodTuring/
+** Are there any pre-existing functions to be put to use?
+*** e.g. http://www.gnu.org/software/gsl/manual/html_node/index.html
